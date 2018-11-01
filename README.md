@@ -2,7 +2,7 @@
 a simple tool to grab win10 spotlight pictures
 
 ### how to use
-1.compile your release executable file  
+1.compile your release executable file(or just find it in release)
 2.put your executable file to the dir you want to save pictures  
 3.create a index.txt file with content:  
 ```
